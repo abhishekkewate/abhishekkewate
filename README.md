@@ -1,6 +1,21 @@
 - 👋 Hi, I’m @abhishekkewate
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning html, css, javascript and reactJS
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning
+-                           SDLC,
+-                           VM,
+-                           AWS / Azure,
+-                       Shell,
+-                   linux,
+-               git & github,
+-           ansible,
+-       terraform (IFC),
+-        CICD,
+-           jenkins,
+-                project management tools,
+-                                      docker,
+-                                          kubernetes,
+-                                              monitoring,
+-                                                      prometheus, grafana
 - 💞️ I’m looking to collaborate on open-source projects and normal projects to get real life experience.
 - 📫 How to reach me: DM "https://twitter.com/abhishek_kewate"
 
